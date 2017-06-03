@@ -8,7 +8,6 @@
 * [Top/left vs translate — Paul Irish](https://www.paulirish.com/2012/why-moving-elements-with-translate-is-better-than-posabs-topleft/)
 * [FLIP your animations — Aerotwist](https://aerotwist.com/blog/flip-your-animations/)
 * [GPU animation: doing it right](https://www.smashingmagazine.com/2016/12/gpu-animation-doing-it-right)
-* [GPU animation: doing it right](https://www.smashingmagazine.com/2016/12/gpu-animation-doing-it-right)
 * [Paul Irish website](https://www.paulirish.com)
 * [Paul Lewis (Aerotwist) website](https://aerotwist.com)
 * [Anatomy of a frame](https://aerotwist.com/blog/the-anatomy-of-a-frame/)
